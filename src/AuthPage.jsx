@@ -27,6 +27,10 @@ const AuthPage = (props) => {
                     <input className="auth-input" name="username" />
                     <button className="auth-button" type="submit">Enter</button>
                 </div>
+
+                <div class="author-text">
+                    <p>©️ Tafadzwa Wilson Sedze💜</p>
+                </div>
             </form>
         </div>
     );
