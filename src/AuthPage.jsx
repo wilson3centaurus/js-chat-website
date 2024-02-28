@@ -19,7 +19,7 @@ const AuthPage = (props) => {
                 </div>
 
                 <div className="form-subtitle">
-                    Set a username to get started
+                    Set a username to get started...
                 </div>
 
                 <div className="auth">

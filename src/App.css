@@ -27,7 +27,7 @@ body {
   font-weight: 800; 
   letter-spacing: 0.5px; 
   color: #e8e8e8; 
-  font-family: 'Varela ';
+  font-family: 'Varela Round';
   padding-bottom: 12px; 
 }
 
@@ -57,7 +57,7 @@ body {
 .auth-input {
   background-color: #3e404b;
   color: white;
-  font-family: "Avenir";
+  font-family: 'Varela Round';
   outline: none;
   border: none;
   border-radius: 8px;
@@ -72,7 +72,7 @@ body {
   font-size: 25px;
   background-color: #fa541c;
   border: none;
-  font-family: "Varela Round", sans-serif;
+  font-family: 'Varela Round';
   outline: none;
   border-radius: 8px;
   font-family: "Avenir";
