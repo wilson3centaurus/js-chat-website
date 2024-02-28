@@ -1,5 +1,5 @@
 body {
-  background-image: url('./assets/valley.jpeg');
+  background-image: url('./assets/space.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -10,7 +10,7 @@ body {
 .background {
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(75deg, rgb(38, 17, 54) 0%, rgb(20, 23, 33) 50%, rgba(20, 23, 33,0.8) 100%);
+  background: linear-gradient(75deg, rgb(38, 17, 54) 0%, rgb(20, 23, 33) 0%, rgba(20, 23, 33,0.8) 90%);
   /* Vertical center */
   display: table-cell;
   vertical-align: middle;
@@ -57,7 +57,7 @@ body {
 .auth-input {
   background-color: #3e404b;
   color: white;
-  font-family: 'Varela Round';
+  font-family: "Avenir";
   outline: none;
   border: none;
   border-radius: 8px;
